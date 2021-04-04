@@ -5,7 +5,7 @@ import 'antd/dist/antd.css';
 
 export default function App() {
   return (
-    <div style={{backgroundColor: "#282c34", height: "100vh"}}>
+    <div style={{backgroundColor: "rgb(40, 44, 52, 0.9)", height: "100vh"}}>
       <Card/>
     </div>
   )
